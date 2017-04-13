@@ -11,7 +11,7 @@ asciidoc.vim
 
 ```
 
-Syntax highlighting in Vim for asciidoc
+Syntax highlighting in Vim for asciidoc files with the `.adoc` extension
 
 ## Usage
 
